@@ -25,4 +25,4 @@ This Rust project reads a user’s name and age from the command line and saves 
 1. Clone the repository  
    
    ```bash
-   git clone https://github.com/Malxte/User-input-convert-to-json-data-via-Rust.git
+   git clone [https://github.com/Malxte/User-input-convert-to-json-data-via-Rust.git](https://github.com/Malxte/input-to-json-rs.git)
